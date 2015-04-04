@@ -3,7 +3,7 @@
 __Namespace__
 
 ```PHP
-use Illuminate Support Collection
+use Illuminate\Support\Collection
 
 __Declaração__
 
